@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not .c files
+!*.c
+
+# And not these files
+!.gitignore
+!README.md

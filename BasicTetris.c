@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-//gitss
-
 
 int M,N,loc,line,score,r;
 int isPlaying = 1;
